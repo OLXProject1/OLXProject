@@ -212,7 +212,7 @@ OLX
 
 
 </form>
-<form action="./SiopaController" method = "post">
+<form action="./OLXController" method = "post">
 <input type = "hidden" name = "action" value = "button2">
 <!-- onclick="Mychange();"-->
 <button  style="width:auto;"><font size="4">SubCategory</font></button>
